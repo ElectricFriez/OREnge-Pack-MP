@@ -15,7 +15,7 @@ Chisels and Bits (weirdest mod ever)
 Galacticraft (WILL REQUIRE SERVER CONFIGURATIONS)
 Simply Jetpacks
 Minecoprocessors
-ComputerCraft
+OpenComputers
 ElevatorMod
 Uncrafting Table Mod
 Open Glider
@@ -33,7 +33,7 @@ Forgelin
 FoamFix
 JustEnoughItems
 Quacklib
-Xaero's Minimap
+JourneyMap
 Tick Dynamic
 Inventory Tweaks
 Hwyla
@@ -48,3 +48,5 @@ micdoodlecore
 CoFHCore
 CoFHWorld
 RedstoneFlux
+FTBUtilities
+FTBLib
