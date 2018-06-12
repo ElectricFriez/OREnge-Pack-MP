@@ -12,7 +12,6 @@ Forestry
 - More Bees
 Botania
 Chisels and Bits (weirdest mod ever)
-Big Reactors
 Galacticraft (WILL REQUIRE SERVER CONFIGURATIONS)
 Simply Jetpacks
 Minecoprocessors
