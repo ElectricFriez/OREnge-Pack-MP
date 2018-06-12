@@ -1,0 +1,37 @@
+Immersive Engineering
+- Alternating Flux
+- Immersive Tech
+- Immersive Petroleum (CURRENTLY BUGGED)
+- RFTools
+IC2
+- Industrial Wires
+Project Red
+- Integrations
+- Transmission
+Forestry
+- More Bees
+Botania
+Chisels and Bits (weirdest mod ever)
+Big Reactors
+Galacticraft (WILL REQUIRE SERVER CONFIGURATIONS)
+Simply Jetpacks
+Minecoprocessors
+Refined Storage
+Rougelike Dungeons
+Reliquary
+Rustic
+Quark
+Traverse
+
+(OPTIMIZATION/UTILITY MODS)
+BetterFPS
+Chameleon
+Forgelin
+FoamFix
+JustEnoughItems
+Quacklib
+Xaero's Minimap
+Tick Dynamic
+Inventory Tweaks
+Hwyla
+- Waila Harvestability
