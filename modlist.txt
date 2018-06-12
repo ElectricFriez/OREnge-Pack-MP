@@ -22,7 +22,7 @@ Rustic
 Quark
 Traverse
 
-(OPTIMIZATION/UTILITY MODS)
+(OPTIMIZATION/UTILITY/DEPENDENCY MODS)
 BetterFPS
 Chameleon
 Forgelin
@@ -34,3 +34,10 @@ Tick Dynamic
 Inventory Tweaks
 Hwyla
 - Waila Harvestability
+mrtjpcore
+autoreglib
+baubles
+mcjtylib
+codechickenlib
+forgemultipart
+micdoodlecore
