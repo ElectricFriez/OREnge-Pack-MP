@@ -55,3 +55,4 @@ FTBUtilities
 FTBLib
 Morpheus
 Eleccore
+EnderCore
