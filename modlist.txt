@@ -12,6 +12,7 @@ Project Red
 Forestry
 - More Bees
 Botania
+Astral Sorcery
 Chisels and Bits (weirdest mod ever)
 Galacticraft (WILL REQUIRE SERVER CONFIGURATIONS)
 Simply Jetpacks
