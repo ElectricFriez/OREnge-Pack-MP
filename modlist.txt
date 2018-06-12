@@ -15,6 +15,10 @@ Chisels and Bits (weirdest mod ever)
 Galacticraft (WILL REQUIRE SERVER CONFIGURATIONS)
 Simply Jetpacks
 Minecoprocessors
+ComputerCraft
+ElevatorMod
+Uncrafting Table Mod
+
 Refined Storage
 Rougelike Dungeons
 Reliquary
@@ -41,3 +45,6 @@ mcjtylib
 codechickenlib
 forgemultipart
 micdoodlecore
+CoFHCore
+CoFHWorld
+RedstoneFlux
