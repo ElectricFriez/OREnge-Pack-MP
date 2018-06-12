@@ -7,6 +7,6 @@ Current Beta Testers/Contributors: ElectricFriez, MazeOfEncryption, Qwerasd, Dig
 NOTE: If your launcher crashes on a certain mod, reinstall that mod. This problem has been shared by other beta testers,
 so watch out for this bug.
 
-VERSION: Beta Build 4
+VERSION: Release Version Alpha
 
 Also suck on it Kon.
