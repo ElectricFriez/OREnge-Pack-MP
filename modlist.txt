@@ -15,7 +15,6 @@ Botania
 Astral Sorcery
 EnderIO
 Chisels and Bits (weirdest mod ever)
-Simply Jetpacks
 Charset
 Minecoprocessors
 OpenComputers
