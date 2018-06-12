@@ -1,7 +1,7 @@
 Immersive Engineering
 - Alternating Flux
 - Immersive Tech
-- Immersive Petroleum (CURRENTLY BUGGED)
+- Immersive Petroleum 
 - RFTools
 - Deep Resonance
 IC2
@@ -14,7 +14,6 @@ Forestry
 Botania
 Astral Sorcery
 Chisels and Bits (weirdest mod ever)
-Galacticraft (WILL REQUIRE SERVER CONFIGURATIONS)
 Simply Jetpacks
 Charset
 Minecoprocessors
