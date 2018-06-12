@@ -13,7 +13,7 @@ Forestry
 - More Bees
 Botania
 Astral Sorcery
-Thermal Expansion
+EnderIO
 Chisels and Bits (weirdest mod ever)
 Simply Jetpacks
 Charset
