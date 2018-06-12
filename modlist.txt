@@ -3,6 +3,7 @@ Immersive Engineering
 - Immersive Tech
 - Immersive Petroleum (CURRENTLY BUGGED)
 - RFTools
+- Deep Resonance
 IC2
 - Industrial Wires
 Project Red
