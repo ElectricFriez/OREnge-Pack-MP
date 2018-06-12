@@ -51,3 +51,4 @@ CoFHWorld
 RedstoneFlux
 FTBUtilities
 FTBLib
+Morpheus
