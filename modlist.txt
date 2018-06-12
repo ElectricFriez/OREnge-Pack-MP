@@ -12,6 +12,7 @@ Project Red
 Forestry
 - More Bees
 Botania
+Embers
 Astral Sorcery
 EnderIO
 Chisels and Bits (weirdest mod ever)
