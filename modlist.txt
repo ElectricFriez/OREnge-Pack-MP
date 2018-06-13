@@ -41,6 +41,7 @@ Tick Dynamic
 Inventory Tweaks
 Hwyla
 - Waila Harvestability
+- Wawla
 mrtjpcore
 autoreglib
 baubles
