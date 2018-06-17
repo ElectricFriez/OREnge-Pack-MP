@@ -12,6 +12,7 @@ Project Red
 Forestry
 - More Bees
 Botania
+Actually Additions
 Embers
 Astral Sorcery
 EnderIO
