@@ -17,6 +17,7 @@ Embers
 Astral Sorcery
 EnderIO
 Chisels and Bits
+Roots
 Charset
 Minecoprocessors
 OpenComputers
@@ -29,6 +30,7 @@ Reliquary
 Rustic
 Quark
 Traverse
+Tinkers' Construct
 
 (OPTIMIZATION/UTILITY/DEPENDENCY MODS)
 BetterFPS
@@ -58,3 +60,4 @@ FTBLib
 Morpheus
 Eleccore
 EnderCore
+Mantle
